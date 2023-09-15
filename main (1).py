@@ -1,4 +1,4 @@
-class BankAccount:
+miclass BankAccount:
       
   def __init__(self, account_number, account_holder_name,
 initial_balance=0.0):
@@ -32,7 +32,8 @@ self.__account_balance))
       
     
 account = BankAccount(account_number="123456789",
-                      account_holder_name="kaviyarasu",
+                      account_holder_name="Sriram
+                      ",
                       initial_balance=5000.0)
     
     
